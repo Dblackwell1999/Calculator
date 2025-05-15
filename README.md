@@ -1,2 +1,3 @@
 # Calculator
-Basic calculator code
+Basic Calculator code
+Updated Calculator code that allows for continous applications
